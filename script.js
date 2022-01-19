@@ -1,4 +1,4 @@
-//  DxD.chara
+//  charadb
 var modalBtns = [...document.querySelectorAll(".button")];
 modalBtns.forEach(function(btn){
   btn.onclick = function() {
