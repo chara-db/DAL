@@ -68,7 +68,7 @@ a {
 
 #myUL li a {
   font-family: inherit;
-  /* border: 1px solid #72732052; */
+  border: 1px solid #402240b5;
   margin-top: -1px; /* Prevent double borders */
   background-color: #301329;
   padding: 15px 15px 15px 15px;
